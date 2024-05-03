@@ -74,3 +74,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### `npm i axios` libreria. Cliente HTTP. realizar peticiones http desde react
 
 
+
+
+## Agradecimientos
+
+Este proyecto fue desarrollado siguiendo el curso "Desarrollando Aplicaciones en React 17 y ASP.NET Core 5" en Udemy. Para obtener más información sobre el curso, puedes visitar [Desarrollando Aplicaciones en React 17 y ASP.NET Core 5](https://www.udemy.com/course/desarrollando-aplicaciones-en-react-y-aspnet-core/?couponCode=ACCAGE0923).
+
+
